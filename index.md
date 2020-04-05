@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+# 关于我们
 
-You can use the [editor on GitHub](https://github.com/ojdaily/ojdaily.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![GDA99P.jpg](https://s1.ax1x.com/2020/04/05/GDA99P.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+​										你是否还在担心自己会被学长们拉开和大的距离而不敢去请教他们？
 
-### Markdown
+​																			我们为您准备了***HSDOJ***！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+​										这是一个干净，整洁的OnlineJudge，大家都会互帮互助！一起学习
 
-```markdown
-Syntax highlighted code block
+​																**Welcome to HSDOnlineJudge!**
 
-# Header 1
-## Header 2
-### Header 3
+# OJ官方团队
 
-- Bulleted
-- List
+技术组成员:潘任周
 
-1. Numbered
-2. List
+出题组成员:徐泽奇，潘任周
 
-**Bold** and _Italic_ and `Code` text
+辅导老师：教务处-沈老师
 
-[Link](url) and ![Image](src)
-```
+备案:徐泽奇
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+服务器:徐泽奇
 
-### Jekyll Themes
+# 论坛官方团队
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ojdaily/ojdaily.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+题解版主:hrz
 
-### Support or Contact
+知识点梳理版主:徐泽奇
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+总版主:徐泽奇，潘任周
+
+服务器:潘任周
+
+# 特别感谢
+
+QDUOJ提供OJ系统，DiscuzX提供论坛系统
+
+# 日报导航
+
+暂无
